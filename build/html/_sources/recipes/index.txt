@@ -1,0 +1,15 @@
+================
+Smashing Recipes
+================
+.. index:: 
+	Database Access 
+
+Welcome to the Smashing App cookbook of quickstart Recipes for IBM WebSphere sMash.
+
+Available recipes:
+
+.. toctree::
+	:glob:
+	:maxdepth: 1
+	
+	*

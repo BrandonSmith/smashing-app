@@ -1,0 +1,15 @@
+======================
+WebSphere sMash Design
+======================
+.. index:: 
+	Database Access 
+
+Welcome to the Smashing App Cookbook of Quickstart Recipes for WebSphere sMash.
+
+Available recipes:
+
+.. toctree::
+	:glob:
+	:maxdepth: 1
+	
+	*

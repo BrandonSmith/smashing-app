@@ -1,0 +1,19 @@
+========================================
+Welcome to smashing app's documentation!
+========================================
+
+Contents:
+
+.. toctree::
+	:maxdepth: 1
+	:glob:
+	
+	recipes/index
+	design/index
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`search`
+

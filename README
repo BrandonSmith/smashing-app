@@ -1,0 +1,20 @@
+===================
+Smashing App README
+===================
+
+Smashing App (http://smashingapp.com) is a website dedicated to experimenting
+with IBM WebSphere sMash, a web application runtime focused on an agile
+development environment that leverages Groovy and PHP scripting languages by
+default and is optimized to quickly create RESTful Web services.
+
+There are a lot of awesome concepts encapsulated in sMash. Smashing App
+is an annotation of the WebSphere sMash technology through a collection of
+thoughts, cookbook-style recipes, code snippets, and more.
+
+WebSphere sMash itself is developed in the open at http://projectzero.org.
+There are community features such as blogging, forum discussions, bug tracking,
+and source.
+
+Content at http://smashingapp.com is generated periodically from this source. If you
+would like to contribute appropriate content, fork, edit, commit, and then send
+me a pull request.
